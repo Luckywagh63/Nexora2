@@ -331,12 +331,14 @@ export default function AboutPage() {
           <p className="text-xl text-slate-300 max-w-2xl mx-auto">
             Be part of a revolutionary platform that's transforming how startups raise capital and investors discover opportunities.
           </p>
+         <a href='/dashboard'>
           <button className="group px-12 py-6 bg-gradient-to-r from-blue-900 to-blue-950 rounded-lg font-semibold text-lg hover:shadow-xl hover:shadow-blue-900/50 border border-blue-800/50 hover:border-amber-600 transition-all">
             <span className="flex items-center gap-3">
               Get Started Today
               <ArrowRight className="w-6 h-6 group-hover:translate-x-1 transition-transform" />
             </span>
           </button>
+        </a>
         </div>
       </section>
     </div>
