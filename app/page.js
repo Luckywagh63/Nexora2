@@ -230,7 +230,7 @@ export default function NexoraLanding() {
         <div className="max-w-4xl mx-auto text-center relative z-10 space-y-10">
           <h2 className="text-6xl font-bold leading-tight text-white">Ready to Transform Your Future?</h2>
           <p className="text-xl text-slate-300 max-w-2xl mx-auto">Join a sophisticated platform connecting innovation with capital.</p>
-        <a href='/dashboard>
+        <a href='/dashboard'>
           <button className="group px-12 py-6 bg-gradient-to-r from-blue-900 to-blue-950 rounded-lg font-semibold text-lg hover:shadow-xl hover:shadow-blue-900/50 border border-blue-800/50 hover:border-amber-600 transition-all">
             <span className="flex items-center gap-3">
               Get Started Today
