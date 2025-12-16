@@ -40,8 +40,8 @@ export default function ContactPage() {
     {
       icon: Mail,
       title: 'Email Us',
-      detail: 'nexoraavl@gmail.com',
-      link: 'mailto:nexoraavl@gmail.com',
+      detail: 'allivosavl@gmail.com',
+      link: 'mailto:allivosavl@gmail.com',
       color: 'blue'
     },
     {
@@ -350,7 +350,7 @@ export default function ContactPage() {
             <div className="aspect-video bg-gradient-to-br from-slate-900/50 to-blue-950/30 flex items-center justify-center">
               <div className="text-center">
                 <MapPin className="w-16 h-16 text-blue-400 mx-auto mb-4" />
-                <h3 className="text-2xl font-bold text-white mb-2">Nexora Headquarters</h3>
+                <h3 className="text-2xl font-bold text-white mb-2">Allivos Headquarters</h3>
                 <p className="text-slate-400">Contact us for our office location</p>
               </div>
             </div>
