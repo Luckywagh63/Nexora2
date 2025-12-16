@@ -173,7 +173,7 @@ export default function HowItWorksPage() {
           </div>
           
           <h1 className="text-6xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-blue-200 via-amber-200 to-blue-200 bg-clip-text text-transparent">
-            How Nexora Works
+            How Allivos Works
           </h1>
           
           <p className="text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed mb-12">
@@ -318,7 +318,7 @@ export default function HowItWorksPage() {
         <div className="max-w-4xl mx-auto text-center relative z-10 space-y-10">
           <h2 className="text-5xl md:text-6xl font-bold leading-tight text-white">Ready to Get Started?</h2>
           <p className="text-xl text-slate-300 max-w-2xl mx-auto">
-            Join thousands of {activeTab === 'startup' ? 'startups raising capital' : 'investors finding opportunities'} on Nexora today.
+            Join thousands of {activeTab === 'startup' ? 'startups raising capital' : 'investors finding opportunities'} on Allivos today.
           </p>
    
         </div>
