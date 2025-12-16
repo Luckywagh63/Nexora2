@@ -380,7 +380,7 @@ export default function SolutionsPage() {
             Ready to Experience Our Solutions?
           </h2>
           <p className="text-xl text-slate-300 max-w-2xl mx-auto">
-            Join thousands using Nexora to accelerate their fundraising and investment success.
+            Join thousands using Allivos to accelerate their fundraising and investment success.
           </p>
 
         </div>
