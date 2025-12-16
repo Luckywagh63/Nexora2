@@ -146,7 +146,7 @@ export default function AboutPage() {
             </div>
             
             <h1 className="text-6xl md:text-7xl font-bold leading-tight bg-gradient-to-r from-blue-200 via-amber-200 to-blue-200 bg-clip-text text-transparent">
-              About Nexora
+              About Allivos
             </h1>
             
             <p className="text-xl text-slate-300 leading-relaxed">
@@ -300,7 +300,7 @@ export default function AboutPage() {
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold mb-6 bg-gradient-to-r from-blue-200 to-amber-200 bg-clip-text text-transparent">
-              Why Choose Nexora
+              Why Choose Allivos
             </h2>
             <p className="text-xl text-slate-400">
               What sets us apart from the rest
