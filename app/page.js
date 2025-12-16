@@ -66,7 +66,7 @@ export default function NexoraLanding() {
             </div>
             
             <h1 className="text-7xl md:text-8xl font-bold leading-tight bg-gradient-to-r from-amber-200 via-amber-500 to-yellow-500 bg-clip-text text-transparent">
-              Nexora
+              Allivos
             </h1>
             
             <p className="text-xl text-yellow-200 leading-relaxed">
@@ -209,7 +209,7 @@ export default function NexoraLanding() {
       {/* Trust */}
       <section className="py-32 px-6">
         <div className="max-w-7xl mx-auto">
-          <h2 className="text-4xl font-bold text-center mb-16 bg-gradient-to-r from-blue-200 to-amber-200 bg-clip-text text-transparent">Why Choose Nexora</h2>
+          <h2 className="text-4xl font-bold text-center mb-16 bg-gradient-to-r from-blue-200 to-amber-200 bg-clip-text text-transparent">Why Choose Allivos</h2>
           <div className="grid md:grid-cols-4 gap-6">
             {trust.map((item, i) => (
               <div key={i} className="group p-8 bg-gradient-to-br from-slate-900/50 to-blue-950/30 border border-blue-900/30 rounded-xl backdrop-blur-sm hover:border-amber-600/40 transform hover:translate-y-[-8px] transition-all duration-500">
@@ -230,12 +230,14 @@ export default function NexoraLanding() {
         <div className="max-w-4xl mx-auto text-center relative z-10 space-y-10">
           <h2 className="text-6xl font-bold leading-tight text-white">Ready to Transform Your Future?</h2>
           <p className="text-xl text-slate-300 max-w-2xl mx-auto">Join a sophisticated platform connecting innovation with capital.</p>
+        <a href='/dashboard>
           <button className="group px-12 py-6 bg-gradient-to-r from-blue-900 to-blue-950 rounded-lg font-semibold text-lg hover:shadow-xl hover:shadow-blue-900/50 border border-blue-800/50 hover:border-amber-600 transition-all">
             <span className="flex items-center gap-3">
               Get Started Today
               <ArrowRight className="w-6 h-6 group-hover:translate-x-1 transition-transform" />
             </span>
           </button>
+        </a>
         </div>
       </section>
     </div>
