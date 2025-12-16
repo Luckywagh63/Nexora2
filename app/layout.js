@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Nexora",
-  description: "Connect & Grow ",
+  title: "Allivos",
+  description: "Build Together",
 };
 
 export default function RootLayout({ children }) {
