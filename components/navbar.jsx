@@ -67,7 +67,7 @@ export default function Navbar() {
 
         {/* LOGO */}
         <a href="/" className="text-2xl font-bold text-amber-400">
-          Nexora
+          Allivos
         </a>
 
         {/* DESKTOP NAV */}
